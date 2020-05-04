@@ -6,6 +6,10 @@ Plz Note:
     as Calender object starts counting months from 0.
 2. But if you are hardcodig the values of month, then make sure to decrease the month value by 1.
 
+* Constructor(Context,birthyear,birthMonth,birthDay,currentYear,currentMonth,currentDay)
+
+
+
 Add it in your root build.gradle at the end of repositories:
 
 	allprojects {
